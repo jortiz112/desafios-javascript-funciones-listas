@@ -133,5 +133,3 @@ secreto desarrollado en el curso anterior.
 ![img](img/certificado.png)
 
 
-
-

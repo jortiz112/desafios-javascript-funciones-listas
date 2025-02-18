@@ -1,8 +1,8 @@
 /*Cambia el contenido de la etiqueta h1 con document.querySelector y asigna el siguiente texto: "Hora del Desafío".*/
-
+window.onload = function() {
 let titulo = document.querySelector('h1');
 titulo.innerHTML = 'Hora del Desafío';
-
+}
 /*Crea una función que muestre en la consola el mensaje "El botón fue clicado" siempre que se presione el botón "Console".*/
 
 function muestraMensajeConsola(){
